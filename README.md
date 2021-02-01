@@ -44,6 +44,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-garywei.dev-2648ff?style=flat-square&logo=google-chrome)](https://www.garywei.dev/)
 
 
+<!--
 <a href="https://github.com/garywei944/FMol">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light" />
 
@@ -51,3 +52,4 @@
 <a href="https://github.com/garywei944/garywei944.github.io">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei944.github.io&theme=light" />
 </a>
+-->
