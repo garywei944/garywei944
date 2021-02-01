@@ -1,6 +1,8 @@
 ## Hi! I'm [Gary](https://www.garywei.dev/)！ 👋
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garywei944&label=Views&color=blue&style=plastic" alt="garywei944" /> </p>
+-->
 
 <a href="https://github.com/garywei944">
   <img align="left" alt="Gary's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -40,13 +42,13 @@
 * **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Catalina, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
 * **Preferred Editors**: JetBrains set, [Sublime Text 3](https://github.com/garywei944/aris_st3), vim and learning emacs
 
+<!--
 [![Twitter: garywei944](https://img.shields.io/twitter/follow/garywei944?style=social)](https://twitter.com/garywei944)
 [![Linkedin: garywei944](https://img.shields.io/badge/-garywei944-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garywei944/)](https://www.linkedin.com/in/garywei944/)
 [![GitHub garywei944](https://img.shields.io/github/followers/garywei944?label=follow&style=social)](https://github.com/garywei944)
 [![website](https://img.shields.io/badge/PortfolioWebsite-garywei.dev-2648ff?style=flat-square&logo=google-chrome)](https://www.garywei.dev/)
 
 
-<!--
 <a href="https://github.com/garywei944/FMol">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light" />
 
@@ -55,3 +57,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei944.github.io&theme=light" />
 </a>
 -->
+
+Check out my [portfolio](https://www.garywei.dev.) for more information!
