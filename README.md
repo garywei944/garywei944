@@ -1,4 +1,4 @@
-## Hi! Here's [Gary](https://www.garywei.dev/)！ 👋
+## Hi! I'm [Gary](https://www.garywei.dev/)！ 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garywei944&label=Views&color=blue&style=plastic" alt="garywei944" /> </p>
 
@@ -20,6 +20,9 @@
 <a href="https://www.youtube.com/channel/UCj8ln8nYtPl4lA_6FrWDtyg">
   <img align="left" alt="Gary's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://space.bilibili.com/3255441">
+  <img align="left" alt="Gary's Bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
+</a>
 <a href="https://steamcommunity.com/profiles/76561198306044214">
   <img align="left" alt="Gary's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />
 </a>
@@ -28,7 +31,7 @@
 <br>
 
 <a href="https://github.com/garywei944">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&theme=light&line_height=40" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/garywei944">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&theme=light&hide_langs_below=1" />
@@ -36,7 +39,6 @@
 
 * **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Catalina, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
 * **Preferred Editors**: JetBrains set, [Sublime Text 3](https://github.com/garywei944/aris_st3), vim and learning emacs
-
 
 [![Twitter: garywei944](https://img.shields.io/twitter/follow/garywei944?style=social)](https://twitter.com/garywei944)
 [![Linkedin: garywei944](https://img.shields.io/badge/-garywei944-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garywei944/)](https://www.linkedin.com/in/garywei944/)
