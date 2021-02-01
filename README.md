@@ -24,7 +24,8 @@
   <img align="left" alt="Gary's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />
 </a>
 
-<br />
+<br>
+<br>
 
 <a href="https://github.com/garywei944">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
@@ -33,8 +34,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&theme=light&hide_langs_below=1" />
 </a>
 
-* OS: [Windows 10](https://github.com/garywei944/eva_bat), macOS Catalina, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
-* Prefered Editors: Jetbrain set, [Sublime Text 3](https://github.com/garywei944/aris_st3), vim and learning emacs
+* **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Catalina, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
+* **Preferred Editors**: JetBrains set, [Sublime Text 3](https://github.com/garywei944/aris_st3), vim and learning emacs
 
 
 [![Twitter: garywei944](https://img.shields.io/twitter/follow/garywei944?style=social)](https://twitter.com/garywei944)
