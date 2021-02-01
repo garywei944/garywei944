@@ -1,9 +1,12 @@
-## Hi! I'm [Gary](https://www.garywei.dev/)！ 👋
+## Hi folks! I'm [Gary](https://www.garywei.dev/)！ 👋
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garywei944&label=Views&color=blue&style=plastic" alt="garywei944" /> </p>
 -->
 
+<a href="mailto:garywei944@gmail.com">
+  <img align="left" alt="Gary's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://github.com/garywei944">
   <img align="left" alt="Gary's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -58,4 +61,4 @@
 </a>
 -->
 
-Check out my [portfolio](https://www.garywei.dev.) for more information!
+### *Check out [garywei.dev](https://www.garywei.dev.) for more!*
