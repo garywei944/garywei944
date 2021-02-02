@@ -42,7 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&theme=light&hide_langs_below=1" />
 </a>
 
-* **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Catalina, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
+* **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Big Sur, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
 * **Preferred Editors**: JetBrains set, [Sublime Text 3](https://github.com/garywei944/aris_st3), vim and learning emacs
 
 <!--
