@@ -22,6 +22,9 @@
 <a href="https://instagram.com/garywei944/">
   <img align="left" alt="Gary's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://weibo.com/u/3169486720">
+  <img align="left" alt="Gary's Sina Weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />
+</a>
 <a href="https://www.youtube.com/channel/UCj8ln8nYtPl4lA_6FrWDtyg">
   <img align="left" alt="Gary's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
@@ -30,6 +33,18 @@
 </a>
 <a href="https://steamcommunity.com/profiles/76561198306044214">
   <img align="left" alt="Gary's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />
+</a>
+<a href="https://www.reddit.com/user/garywei944">
+  <img align="left" alt="Gary's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg" />
+</a>
+<a href="https://www.zhihu.com/people/wei-guang-hao-88">
+  <img align="left" alt="Gary's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />
+</a>
+<a href="https://leetcode.com/garywei944/">
+  <img align="left" alt="Gary's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
+</a>
+<a href="https://www.kaggle.com/garywei944">
+  <img align="left" alt="Gary's kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
 </a>
 
 <br>
