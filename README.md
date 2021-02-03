@@ -13,14 +13,14 @@
 <a href="https://linkedin.com/in/garywei944">
   <img align="left" alt="Gary's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.facebook.com/garywei944/">
+  <img align="left" alt="Gary's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <a href="https://twitter.com/garywei944">
   <img align="left" alt="Gary's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/garywei944/">
   <img align="left" alt="Gary's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/garywei944/">
-  <img align="left" alt="Gary's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCj8ln8nYtPl4lA_6FrWDtyg">
   <img align="left" alt="Gary's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
