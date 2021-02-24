@@ -58,7 +58,7 @@
 </a>
 
 * **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Big Sur, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
-* **Preferred Editors**: JetBrains IDE set, [Sublime Text 3](https://github.com/garywei944/aris_st3), vim + spacemacs(evil).
+* **Preferred Editors**: JetBrains IDE set, [Sublime Text 3](https://github.com/garywei944/aris_st3), [spacemacs](https://github.com/garywei944/.spacemacs.d) + vim.
 
 <!--
 [![Twitter: garywei944](https://img.shields.io/twitter/follow/garywei944?style=social)](https://twitter.com/garywei944)
