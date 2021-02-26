@@ -63,8 +63,8 @@
 ## Geeky? 🤔
 工欲善其事，必先利其器。<br>
 A handy tool makes a handy man.
-* **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Big Sur, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
-* **Preferred Editors**: JetBrains IDE set, [Sublime Text 3](https://github.com/garywei944/aris_st3), [spacemacs](https://github.com/garywei944/.spacemacs.d) + vim.
+* **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Big Sur, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)([.config](https://github.com/garywei944/.config))
+* **Preferred Editors**: JetBrains IDE set, [Sublime Text 3](https://github.com/garywei944/aris_st3), [spacemacs(evil)](https://github.com/garywei944/.spacemacs.d).
 
 <a href="https://github.com/garywei944/eva_bin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_bin&theme=light" />
