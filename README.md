@@ -81,4 +81,4 @@ A handy tool makes a handy man.
 [![website](https://img.shields.io/badge/PortfolioWebsite-garywei.dev-2648ff?style=flat-square&logo=google-chrome)](https://www.garywei.dev/)
 -->
 ---
-***Check out [garywei.dev](https://www.garywei.dev.) for more!***
+### ***Check out [garywei.dev](https://www.garywei.dev.) for more!***
