@@ -1,4 +1,4 @@
-## Hi folks! I'm [Gary](https://www.garywei.dev/)！ 👋
+# Hi folks! I'm [Gary](https://www.garywei.dev/)！ 👋
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garywei944&label=Views&color=blue&style=plastic" alt="garywei944" /> </p>
@@ -57,6 +57,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&theme=light&hide_langs_below=1" />
 </a>
 
+## Geeky? 🤔
+工欲善其事，必先利其器。<br>
+A handy tool makes a handy man.
 * **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Big Sur, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
 * **Preferred Editors**: JetBrains IDE set, [Sublime Text 3](https://github.com/garywei944/aris_st3), [spacemacs](https://github.com/garywei944/.spacemacs.d) + vim.
 
@@ -75,5 +78,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei944.github.io&theme=light" />
 </a>
 -->
-
-### *Check out [garywei.dev](https://www.garywei.dev.) for more!*
+---
+***Check out [garywei.dev](https://www.garywei.dev.) for more!***
