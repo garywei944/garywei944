@@ -51,10 +51,13 @@
 <br>
 
 <a href="https://github.com/garywei944">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&theme=light&line_height=40" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&layout=compact" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/garywei944">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&layout=compact" />
+</a>
+<a href="https://wakatime.com/@garywei944">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact" />
 </a>
 
 ## Geeky? 🤔
@@ -63,20 +66,19 @@ A handy tool makes a handy man.
 * **OS**: [Windows 10](https://github.com/garywei944/eva_bat), macOS Big Sur, [Ubuntu 20.04](https://github.com/garywei944/eva_bin)
 * **Preferred Editors**: JetBrains IDE set, [Sublime Text 3](https://github.com/garywei944/aris_st3), [spacemacs](https://github.com/garywei944/.spacemacs.d) + vim.
 
+<a href="https://github.com/garywei944/eva_bin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_bin&theme=light" />
+</a>
+<a href="https://github.com/garywei944/aris_st3">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_st3&theme=light" />
+</a>
+
+
 <!--
 [![Twitter: garywei944](https://img.shields.io/twitter/follow/garywei944?style=social)](https://twitter.com/garywei944)
 [![Linkedin: garywei944](https://img.shields.io/badge/-garywei944-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garywei944/)](https://www.linkedin.com/in/garywei944/)
 [![GitHub garywei944](https://img.shields.io/github/followers/garywei944?label=follow&style=social)](https://github.com/garywei944)
 [![website](https://img.shields.io/badge/PortfolioWebsite-garywei.dev-2648ff?style=flat-square&logo=google-chrome)](https://www.garywei.dev/)
-
-
-<a href="https://github.com/garywei944/FMol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light" />
-
-</a>
-<a href="https://github.com/garywei944/garywei944.github.io">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei944.github.io&theme=light" />
-</a>
 -->
 ---
 ***Check out [garywei.dev](https://www.garywei.dev.) for more!***
