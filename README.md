@@ -76,7 +76,7 @@ A handy tool makes a handy man.
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_st3&theme=light" />
 </a>
 
-* See also: [![dotfiles](https://img.shields.io/badge/-dotfiles-52d053)](https://github.com/garywei944/.config)
+<!-- * See also: [![dotfiles](https://img.shields.io/badge/-dotfiles-52d053)](https://github.com/garywei944/.config) -->
 
 ## What then, Pragmatism? 😎
 * Some Machine Learning **Drug Discovery**
