@@ -1,14 +1,13 @@
-# Hi folks! I'm [Gary](https://www.garywei.dev/)！ 👋
-
-<!--
-<p align="left"></p>
--->
+# Hi folks! Here's [Gary](https://www.garywei.dev/)！ 👋
 
 <a href="mailto:garywei944@gmail.com">
   <img align="left" alt="Gary's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://github.com/garywei944">
   <img align="left" alt="Gary's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://wakatime.com/@garywei944">
+  <img align="left" alt="Gary's WakaTime" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wakatime.svg" />
 </a>
 <a href="https://linkedin.com/in/garywei944">
   <img align="left" alt="Gary's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -63,8 +62,12 @@
 ## Geeky? 🤔 Just some Foundamentalism..
 工欲善其事，必先利其器。<br>
 A handy tool makes a handy man.
-* **OS**: [![Windows 10](https://img.shields.io/github/last-commit/garywei944/eva_bat.svg?label=Windows+10&logo=windows&maxAge=600)](https://github.com/garywei944/eva_bat), ![macOS Big Sur](https://img.shields.io/badge/macOS-Big%20Sur-brightgreen), [Ubuntu 20.04](https://github.com/garywei944/eva_bin)([dotfiles](https://github.com/garywei944/.config))
-* **Preferred Editors**: JetBrains IDE set, [Sublime Text 3](https://github.com/garywei944/aris_st3), [Spacemacs(evil)](https://github.com/garywei944/.spacemacs.d).
+* **OS**: [![Windows](https://img.shields.io/badge/Windows-10-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_bat)
+![macOS](https://img.shields.io/badge/macOS-Big%20Sur-66ffcc?logo=apple&logoColor=white)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-ccff66?logo=ubuntu&logoColor=white)](https://github.com/garywei944/eva_bin)
+* **Editors**: ![Jetbrains](https://img.shields.io/badge/Jetbrains-IDE-ffcc66?logo=jetbrains&logoColor=white), [![Sublime](https://img.shields.io/badge/Sublime%20Text-3-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/aris_st3), [![Spacemacs](https://img.shields.io/badge/Spacemacs-evil-cc66ff?logo=spacemacs&logoColor=white)](https://github.com/garywei944/.spacemacs.d).
+* **Windows Manager**: ![Qtile](https://img.shields.io/badge/WM-Qtile-e6770b)
+![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)
 
 <a href="https://github.com/garywei944/eva_bin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_bin&theme=light" />
@@ -73,14 +76,25 @@ A handy tool makes a handy man.
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_st3&theme=light" />
 </a>
 
-## What about Pragmatism?
-* I'm taking courses on the track of Machine Learning. I've experienced in a ML Drug Discovery project. See [![FMol](https://img.shields.io/github/last-commit/garywei944/FMol.svg?label=FMol&logo=github&maxAge=600)](https://github.com/garywei944/FMol)
-* I'm taking grad level Intelligent Visual Computing course doing NN on 3D classification this semester. 
+* See also: [![dotfiles](https://img.shields.io/badge/-dotfiles-52d053)](https://github.com/garywei944/.config)
+
+## What then, Pragmatism? 😎
+* Some Machine Learning **Drug Discovery**
+* Some Machine Learning **Visual Computing**
+* Some **Game Programming**
+* **Website Development**, **IoT**, etc
+
+<!-- <a href="https://github.com/garywei944/FMol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light" />
+</a>
+<a href="https://github.com/garywei944/aris_kaggle_lish-moa">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_kaggle_lish-moa&theme=light" />
+</a> -->
 
 ---
 ### ***Check out [garywei.dev](https://www.garywei.dev.) for more!***
-[![garywei944](https://komarev.com/ghpvc/?username=garywei944&label=Views&color=blue&style=plastic)](https://github.com/garywei944)
+[![garywei944](https://komarev.com/ghpvc/?username=garywei944&label=GitHub%20Views&color=ff66cc)](https://github.com/garywei944)
 [![GitHub garywei944](https://img.shields.io/github/followers/garywei944?label=follow&style=social)](https://github.com/garywei944)
+[![Linkedin: garywei944](https://img.shields.io/badge/-garywei944-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garywei944/)](https://www.linkedin.com/in/garywei944/)
 [![Twitter: garywei944](https://img.shields.io/twitter/follow/garywei944?style=social)](https://twitter.com/garywei944)
-[![Linkedin: garywei944](https://img.shields.io/badge/-garywei944-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garywei944/)](https://www.linkedin.com/in/garywei944/)
-[![website](https://img.shields.io/badge/PortfolioWebsite-garywei.dev-2648ff?style=flat-square&logo=google-chrome)](https://www.garywei.dev/)
+[![website](https://img.shields.io/badge/Website-garywei.dev-ccff66?logo=google-chrome&logoColor=white)](https://www.garywei.dev/)
