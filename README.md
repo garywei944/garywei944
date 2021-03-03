@@ -62,20 +62,20 @@
 ## Geeky? 🤔 Just some Foundamentalism..
 工欲善其事，必先利其器。<br>
 A handy tool makes a handy man.
-* **OS**: [![Windows](https://img.shields.io/badge/Windows-10-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_bat)
-[![macOS](https://img.shields.io/badge/macOS-Big%20Sur-66ffcc?logo=apple&logoColor=white)](#)
+* **OS**: [![Windows](https://img.shields.io/badge/Windows-10-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_windows)
+[![macOS](https://img.shields.io/badge/macOS-Big%20Sur-66ffcc?logo=apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-ccff66?logo=ubuntu&logoColor=white)](https://github.com/garywei944/eva_ubuntu)
-* **Editors**: [![Jetbrains](https://img.shields.io/badge/Jetbrains-IDE-ffcc66?logo=jetbrains&logoColor=white)](#)
-[![Sublime](https://img.shields.io/badge/Sublime%20Text-3-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/aris_st3)
+* **Editors**: [![Jetbrains](https://img.shields.io/badge/Jetbrains-IDE-ffcc66?logo=jetbrains&logoColor=white)](https://www.jetbrains.com/products/)
+[![Sublime](https://img.shields.io/badge/Sublime%20Text-3-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st3)
 [![Spacemacs](https://img.shields.io/badge/Spacemacs-evil-cc66ff?logo=spacemacs&logoColor=white)](https://github.com/garywei944/.spacemacs.d)
-* **Windows Manager**: [![Qtile](https://img.shields.io/badge/WM-Qtile-e6770b)](#)
-[![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](#)
+* **Windows Manager**: [![Qtile](https://img.shields.io/badge/WM-Qtile-e6770b)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/qtile)
+[![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/awesome)
 
 <a href="https://github.com/garywei944/eva_init">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
 </a>
-<a href="https://github.com/garywei944/aris_st3">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_st3&theme=light" />
+<a href="https://github.com/garywei944/eva_st3">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_st3&theme=light" />
 </a>
 
 <!-- * See also: [![dotfiles](https://img.shields.io/badge/-dotfiles-52d053)](https://github.com/garywei944/.config) -->
