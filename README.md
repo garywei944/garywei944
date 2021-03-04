@@ -45,6 +45,9 @@
 <a href="https://www.kaggle.com/garywei944">
   <img align="left" alt="Gary's kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
 </a>
+<a href="https://blog.csdn.net/garywei944">
+  <img align="left" alt="Gary's kaggle" width="88px" src="svg/csdn.svg" />
+</a>
 
 <br>
 <br>
