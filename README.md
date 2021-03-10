@@ -71,8 +71,8 @@ A handy tool makes a handy man.
 * **Editors**: [![Jetbrains](https://img.shields.io/badge/Jetbrains-IDE-ffcc66?logo=jetbrains&logoColor=white)](https://www.jetbrains.com/products/)
 [![Sublime](https://img.shields.io/badge/Sublime%20Text-3-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st3)
 [![Spacemacs](https://img.shields.io/badge/Spacemacs-evil-cc66ff?logo=spacemacs&logoColor=white)](https://github.com/garywei944/.spacemacs.d)
-* **Windows Manager**: [![Qtile](https://img.shields.io/badge/WM-Qtile-e6770b)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/qtile)
-[![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/awesome)
+* **Windows Manager**: [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/awesome)
+[![Qtile](https://img.shields.io/badge/WM-Qtile-e6770b)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/qtile)
 
 <a href="https://github.com/garywei944/eva_init">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
