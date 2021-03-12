@@ -73,6 +73,13 @@ A handy tool makes a handy man.
 [![Spacemacs](https://img.shields.io/badge/Spacemacs-evil-cc66ff?logo=spacemacs&logoColor=white)](https://github.com/garywei944/.spacemacs.d)
 * **Windows Manager**: [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/awesome)
 [![Qtile](https://img.shields.io/badge/WM-Qtile-e6770b)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/qtile)
+* **Programming Languages**:
+
+|        Level        |                  Language                 |
+|---------------------|-------------------------------------------|
+| **Proficient**      | Python, C/C++, C#, Java, JavaScript, Bash |
+| **Experienced**     | Lisp, Lua, MATLAB, R, Batch               |
+| **Markup Language** | LaTex, Markdown, Org mode, HTML, CSS      |
 
 <a href="https://github.com/garywei944/eva_init">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
