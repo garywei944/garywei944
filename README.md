@@ -62,7 +62,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact" />
 </a>
 
-## Geeky? 🤔 Just some Foundamentalism..
+## Geeky? 🤔 Just some Fundamentalism.
 工欲善其事，必先利其器。<br>
 A handy tool makes a handy man.
 * **OS**: [![Windows](https://img.shields.io/badge/Windows-10-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_windows)
@@ -89,22 +89,25 @@ A handy tool makes a handy man.
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_st3&theme=light" />
 </a>
 
-*Why the projects named with **eva_** or **aris_**? Some [nomenclature and naming conventions](nomenclature.md)..*
+### Why `eva`?
 
-<!-- * See also: [![dotfiles](https://img.shields.io/badge/-dotfiles-52d053)](https://github.com/garywei944/.config) -->
+The word `eva` has so many meanings. In Genesis, Eve (or Eva) was the first woman created. Personally, I'm also a big fan of the anime Neon Genesis Evangelion, which is also usually referred as EVA.
 
-## What then, Pragmatism? 😎
+That I'd like to choose `eva` as a prefix of the projects is inspired from a fiction novel character. In Jiangnan(江南)'s novel *Dragon Raja(龙族)*, *EVA* refers to a supercomputer that is implanted with personality, which is also similar to the *S.C. Magi System(マギ)* of Neon Genesis Evangelion. BTW, Dragon Raja used to be my favorite fiction novel for years.
+
+
+## What's next, Pragmatism? 😎
 * Some Machine Learning **Drug Discovery**
 * Some Machine Learning **Visual Computing**
 * Some **Game Programming**
 * **Website Development**, **IoT**, etc
 
-<!-- <a href="https://github.com/garywei944/FMol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light" />
-</a>
-<a href="https://github.com/garywei944/aris_kaggle_lish-moa">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_kaggle_lish-moa&theme=light" />
-</a> -->
+***Explore them in my repositories!***
+
+### Uh huh, then what's `aris`?
+
+`aris`, or `ariseus`, is a word that I made. It's inspired from a character of the music game *Cytus II* and the character's name is `Æsir`. I swapped *s* and *r* and used English letter *A* instead of Danish letter *Æ*. `eus` is simply a zeus-like Greek mythology style naming suffix to make the name more catchy.
+
 
 ---
 ### ***Check out [garywei.dev](https://www.garywei.dev.) for more!***
