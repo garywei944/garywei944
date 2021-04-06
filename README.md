@@ -107,7 +107,7 @@ That I'd like to choose `eva` as a prefix of the projects is inspired from a fic
 
 ### Uh huh, then what's `aris`?
 
-`aris`, or `ariseus`, is a word that I made. It's inspired from a character of the music game *Cytus II* and the character's name is `Æsir`. I swapped *s* and *r* and used English letter *A* instead of Danish letter *Æ*. `eus` is simply a zeus-like Greek mythology style naming suffix to make the name more catchy.
+`aris`, or `ariseus`, is a word that I made. It's inspired from a character of the music game *Cytus II* and the character's name is `Æsir`. I swapped *s* and *r* and used English letter *A* instead of Danish letter *Æ*. `eus` is simply a zeus-like Greek mythology style naming suffix to make it sounds more catchy.
 
 
 ---
