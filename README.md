@@ -76,13 +76,13 @@ A handy tool makes a handy man.
 [![Qtile](https://img.shields.io/badge/WM-Qtile-e6770b)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/qtile)
 * **Programming Languages**:
 
-|        Level        |                 Language                 |
-|---------------------|------------------------------------------|
-| **Developing with** | Python, Bash                             |
-| **Proficient**      | C/C++, C#, Java, JavaScript              |
-| **Experienced**     | Lisp, Lua, MATLAB, R, Batch, AppleScript |
-| **Markup Language** | LaTex, Markdown, HTML, CSS               |
-
+|   Level / Category  |                          Language / Framework                         |
+|---------------------|-----------------------------------------------------------------------|
+| **Developing with** | Python, Bash                                                 |
+| **Proficient**      | C/C++, C#, Java, JavaScript                                           |
+| **Experienced**     | Lisp, Lua, MATLAB, R, Batch, AppleScript                              |
+| **Full Stack**      | HTML(EJS), CSS(Bootstrap), JavaScript(jQuery), Ajax, Node.js(Express) |
+| **Markup Language** | LaTex, Markdown                                                       |
 <a href="https://github.com/garywei944/eva_init">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
 </a>
