@@ -81,7 +81,7 @@ A handy tool makes a handy man.
 | **Developing with** | Python, Bash                             |
 | **Proficient**      | C/C++, C#, Java, JavaScript              |
 | **Experienced**     | Lisp, Lua, MATLAB, R, Batch, AppleScript |
-| **Markup Language** | LaTex, Markdown, Org mode, HTML, CSS     |
+| **Markup Language** | LaTex, Markdown, HTML, CSS               |
 
 <a href="https://github.com/garywei944/eva_init">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
@@ -92,7 +92,7 @@ A handy tool makes a handy man.
 
 ### Why `eva`?
 
-The word `eva` has so many meanings. In Genesis, Eve (or Eva) was the first woman created. Personally, I'm also a big fan of the anime Neon Genesis Evangelion, which is also usually referred as EVA.
+In general, the word `eva` has so many meanings. In Genesis, Eve (or Eva) was the first woman created. Personally, I'm also a big fan of the anime Neon Genesis Evangelion, which is also usually referred as EVA.
 
 That I'd like to choose `eva` as a prefix of the projects is inspired from a fiction novel character. In Jiangnan(江南)'s novel *Dragon Raja(龙族)*, *EVA* refers to a supercomputer that is implanted with personality, which is also similar to the *S.C. Magi System(マギ)* of Neon Genesis Evangelion. BTW, Dragon Raja used to be my favorite fiction novel for years.
 
@@ -101,7 +101,7 @@ That I'd like to choose `eva` as a prefix of the projects is inspired from a fic
 * Some Machine Learning **Drug Discovery**
 * Some Machine Learning **Visual Computing**
 * Some **Game Programming**
-* **Website Development**, **IoT**, etc
+* **Full Stack Development**, **IoT**, etc
 
 ***Explore them in my repositories!***
 
