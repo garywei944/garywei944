@@ -94,7 +94,7 @@ A handy tool makes a handy man.
 
 In general, the word `eva` has so many meanings. In Genesis, Eve (or Eva) was the first woman created. Personally, I'm also a big fan of the anime Neon Genesis Evangelion, which is also usually referred as EVA.
 
-That I'd like to choose `eva` as a prefix of the projects is inspired from a fiction novel character. In Jiangnan(江南)'s novel *Dragon Raja(龙族)*, *EVA* refers to a supercomputer that is implanted with personality, which is also similar to the *S.C. Magi System(マギ)* of Neon Genesis Evangelion. BTW, Dragon Raja used to be my favorite fiction novel for years.
+That I'd like to choose `eva` as a prefix of the projects is inspired from a fiction novel character. In Jiangnan(江南)'s novel *Dragon Raja(龙族)*, *EVA* refers to a supercomputer that is implanted with personality, which is also similar to the *S.C. Magi System(マギ)* of Neon Genesis Evangelion. In this way, I add a romantic touch to my projects. BTW, Dragon Raja used to be my favorite fiction novel for years.
 
 
 ## What's next, Pragmatism? 😎
