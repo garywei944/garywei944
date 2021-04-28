@@ -46,7 +46,7 @@
   <img align="left" alt="Gary's kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
 </a>
 <a href="https://blog.csdn.net/garywei944">
-  <img align="left" alt="Gary's kaggle" width="88px" src="svg/csdn.svg" />
+  <img align="left" alt="Gary's CSDN" width="88px" src="/svg/csdn.svg" />
 </a>
 
 <br>
@@ -63,7 +63,8 @@
 </a>
 
 ## Geeky? 🤔 Just some Fundamentalism.
-工欲善其事，必先利其器。<br>
+工欲善其事，必先利其器。
+
 A handy tool makes a handy man.
 * **OS**: [![Windows](https://img.shields.io/badge/Windows-10-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_windows)
 [![macOS](https://img.shields.io/badge/macOS-Big%20Sur-66ffcc?logo=apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
@@ -76,13 +77,14 @@ A handy tool makes a handy man.
 [![Qtile](https://img.shields.io/badge/WM-Qtile-e6770b)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/qtile)
 * **Programming Languages**:
 
-|   Level / Category  |                          Language / Framework                         |
-|---------------------|-----------------------------------------------------------------------|
-| **Developing with** | Python, Bash                                                 |
-| **Proficient**      | C/C++, C#, Java, JavaScript                                           |
-| **Experienced**     | Lisp, Lua, MATLAB, R, Batch, AppleScript                              |
-| **Full Stack**      | HTML(EJS), CSS(Bootstrap), JavaScript(jQuery), Ajax, Node.js(Express) |
-| **Markup Language** | LaTex, Markdown                                                       |
+|   Level / Category  |              Language / Framework              |
+|---------------------|------------------------------------------------|
+| **Developing with** | Python, Bash                                   |
+| **Proficient**      | C/C++, C#, Java, JavaScript                    |
+| **Experienced**     | Lisp, Lua, MATLAB, R, Batch, AppleScript       |
+| **Front End**       | HTML, CSS(Bootstrap), JavaScript(jQuery), Ajax |
+| **Back End**        | Node.js(Express + EJS), SQL(PostgreSQL)        |
+| **Markup Language** | LaTex, Markdown                                |
 <a href="https://github.com/garywei944/eva_init">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
 </a>
@@ -99,9 +101,30 @@ That I'd like to choose `eva` as a prefix of the projects is inspired from a fic
 
 ## What's next, Pragmatism? 😎
 * Some Machine Learning **Drug Discovery**
+<a href="https://github.com/garywei944/FMol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light">
+</a>
+<a href="https://github.com/garywei944/aris_kaggle_lish-moa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_kaggle_lish-moa&theme=light">
+</a>
+
 * Some Machine Learning **Visual Computing**
+<a href="https://github.com/garywei944/cs674_final_project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=cs674_final_project&theme=light">
+</a>
+
 * Some **Game Programming**
+<a href="https://github.com/garywei944/Untitled-Tower-Defense">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Untitled-Tower-Defense&theme=light">
+</a>
+
 * **Full Stack Development**, **IoT**, etc
+<a href="https://github.com/garywei944/cs326_final_project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=cs326_final_project&theme=light">
+</a>
+<a href="https://github.com/garywei944/garywei944.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei944.github.io&theme=light">
+</a>
 
 ***Explore them in my repositories!***
 
