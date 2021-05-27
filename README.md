@@ -119,8 +119,8 @@ That I'd like to choose `eva` as a prefix of the projects is inspired from a fic
 </a>
 
 * **Full Stack Development**, **IoT**, etc
-<a href="https://github.com/garywei944/cs326_final_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=cs326_final_project&theme=light">
+<a href="https://github.com/garywei944/CG3-Blog-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light">
 </a>
 <a href="https://github.com/garywei944/garywei.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei.dev&theme=light">
