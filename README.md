@@ -100,17 +100,20 @@ That I'd like to choose `eva` as a prefix of the projects is inspired from a fic
 
 
 ## What's next, Pragmatism? 😎
+* Some Machine Learning **Natural Language Processing**
+  - I'm currently working on BioNLP projects with Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx) at UMass Lowell.
+
+* Some Machine Learning **Computer Vision**
+<a href="https://github.com/garywei944/KPConv-PyTorch-ShapeNet-Part">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=KPConv-PyTorch-ShapeNet-Part&theme=light">
+</a>
+
 * Some Machine Learning **Drug Discovery**
 <a href="https://github.com/garywei944/FMol">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light">
 </a>
 <a href="https://github.com/garywei944/aris_kaggle_lish-moa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_kaggle_lish-moa&theme=light">
-</a>
-
-* Some Machine Learning **Visual Computing**
-<a href="https://github.com/garywei944/cs674_final_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=cs674_final_project&theme=light">
 </a>
 
 * Some **Game Programming**
