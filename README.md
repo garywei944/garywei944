@@ -75,7 +75,7 @@ A handy tool makes a handy man.
 [![Spacemacs](https://img.shields.io/badge/Spacemacs-evil-cc66ff?logo=spacemacs&logoColor=white)](https://github.com/garywei944/.spacemacs.d)
 * **Desktops**: [![KDE](https://img.shields.io/badge/DE-KDE-e6770b?logo=kde&logoColor=white)](https://github.com/garywei944/eva_arch)
 [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/awesome)
-[![Qtile](https://img.shields.io/badge/WM-Qtile-52d053)](https://github.com/garywei944/eva_arch/tree/main/.config/qtile)
+[![Qtile](https://img.shields.io/badge/WM-Qtile-52d053)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/qtile)
 * **Programming Languages**:
 
 |   Level / Category  |              Language / Framework              |
