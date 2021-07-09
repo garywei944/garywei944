@@ -1,5 +1,7 @@
 # Heyo! It's [Gary](https://www.garywei.dev/)！ 👋
 
+***Also check out www.garywei.dev!***
+
 <a href="mailto:garywei944@gmail.com">
   <img align="left" alt="Gary's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
