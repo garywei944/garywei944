@@ -57,12 +57,6 @@
 <a href="https://github.com/garywei944">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&layout=compact" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/garywei944">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&layout=compact" />
-</a>
-<a href="https://wakatime.com/@garywei944">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact" />
-</a>
 
 ## Geeky? 🤔 Just some Fundamentalism.
 工欲善其事，必先利其器。
@@ -78,6 +72,14 @@ A handy tool makes a handy man.
 * **Desktops**: [![KDE](https://img.shields.io/badge/DE-KDE-e6770b?logo=kde&logoColor=white)](https://github.com/garywei944/eva_arch)
 [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/awesome)
 [![Qtile](https://img.shields.io/badge/WM-Qtile-52d053)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/qtile)
+
+<a href="https://github.com/garywei944/eva_init">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
+</a>
+<a href="https://github.com/garywei944/eva_st3">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_st3&theme=light" />
+</a>
+
 * **Programming Languages**:
 
 |   Level / Category  |              Language / Framework              |
@@ -88,12 +90,14 @@ A handy tool makes a handy man.
 | **Front End**       | HTML, CSS(Bootstrap), JavaScript(jQuery), Ajax |
 | **Back End**        | Node.js(Express + EJS), SQL(PostgreSQL)        |
 | **Markup Language** | LaTex, Markdown                                |
-<a href="https://github.com/garywei944/eva_init">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
+<a href="https://github.com/garywei944">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&layout=compact" />
 </a>
-<a href="https://github.com/garywei944/eva_st3">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_st3&theme=light" />
+<br>
+<a href="https://wakatime.com/@garywei944">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact" />
 </a>
+<br>
 
 ### Why `eva`?
 
@@ -125,18 +129,18 @@ That I'd like to choose `eva` as a prefix of the projects is inspired from a fic
 </a>
 
 * **Full Stack Development**, **IoT**, etc
-<a href="https://github.com/garywei944/CG3-Blog-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light">
-</a>
 <a href="https://github.com/garywei944/garywei.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei.dev&theme=light">
+</a>
+<a href="https://github.com/garywei944/CG3-Blog-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light">
 </a>
 
 ***Explore them in my repositories!***
 
 ### Uh huh, then what's `aris`?
 
-`aris`, or `ariseus`, is a word that I made. It's inspired from a character of the music game *Cytus II* and the character's name is `Æsir`. I swapped *s* and *r* and used English letter *A* instead of Danish letter *Æ*. `eus` is simply a zeus-like Greek mythology style naming suffix to make it sounds more catchy.
+`aris`, or `ariseus`, is a word that I create. It's derived from a character of the music game *Cytus II* and the character's name is `Æsir`. I swapped *s* and *r* and used English letter *A* instead of Danish letter *Æ*. `eus` is simply a zeus-like Greek mythology style naming suffix to make it sounds more catchy.
 
 
 ---
