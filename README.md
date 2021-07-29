@@ -108,7 +108,7 @@ That I'd like to choose `eva` as a prefix of the projects is inspired from a fic
 
 ## What's next, Pragmatism? 😎
 * Some Machine Learning **Natural Language Processing**
-  - I'm currently working on BioNLP projects with Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx) at UMass Lowell.
+  - I'm currently working on  a downstream Machine Learning project of [***this paper***](https://pubmed.ncbi.nlm.nih.gov/23920650/) with Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx) at UMass Lowell.
 
 * Some Machine Learning **Computer Vision**
 <a href="https://github.com/garywei944/KPConv-PyTorch-ShapeNet-Part">
