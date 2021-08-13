@@ -55,7 +55,7 @@
 <br>
 
 <a href="https://github.com/garywei944">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&layout=compact" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&layout=compact" alt="garywei944's github stats"/>
 </a>
 
 ## Geeky? 🤔 Just some Fundamentalism.
@@ -76,8 +76,8 @@ A handy tool makes a handy man.
 <a href="https://github.com/garywei944/eva_init">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
 </a>
-<a href="https://github.com/garywei944/eva_st3">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_st3&theme=light" />
+<a href="https://github.com/garywei944/eva_arch">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=light" />
 </a>
 
 * **Programming Languages**:
@@ -101,14 +101,14 @@ A handy tool makes a handy man.
 
 ### Why `eva`?
 
-In general, the word `eva` has so many meanings. In Genesis, Eve (or Eva) was the first woman created. Personally, I'm also a big fan of the anime Neon Genesis Evangelion, which is also usually referred as EVA.
+In general, `eva` has many meanings. In Hebrew Bible, [*Eve (or Eva)*](https://en.wikipedia.org/wiki/Eve) was the first woman created. Besides, I'm also a big fan of the anime [*Neon Genesis Evangelion*](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion), which is also usually referred as EVA.
 
-That I'd like to choose `eva` as a prefix of the projects is inspired from a fiction novel character. In Jiangnan(江南)'s novel *Dragon Raja(龙族)*, *EVA* refers to a supercomputer that is implanted with personality, which is also similar to the *S.C. Magi System(マギ)* of Neon Genesis Evangelion. In this way, I add a romantic touch to my projects. BTW, Dragon Raja used to be my favorite fiction novel for years.
+That I'd like to choose `eva` as a prefix is inspired from a fiction novel character. In [*Jiangnan(江南)*](https://en.wikipedia.org/wiki/Jiang_Nan_(novelist))'s novel [*Dragon Raja(龙族)*](https://en.wikipedia.org/wiki/Dragon_Raja_(Chinese_novels)), *EVA* refers to a supercomputer that is implanted with personality, which is also similar to the [*S.C. Magi System(マギ)*](https://wiki.evageeks.org/Magi) of *Neon Genesis Evangelion*. In this way, I add a romantic touch to my projects. BTW, Dragon Raja used to be my favorite fiction novel for years.
 
 
 ## What's next, Pragmatism? 😎
 * Some Machine Learning **Natural Language Processing**
-  - I'm currently working on  a downstream Machine Learning project of [***this paper***](https://pubmed.ncbi.nlm.nih.gov/23920650/) with Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx) at UMass Lowell.
+  - I'm currently working on a downstream project of [Ramesh et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23920650/) with Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx) at UMass Lowell [BioNLP Lab](https://bio-nlp.org/).
 
 * Some Machine Learning **Computer Vision**
 <a href="https://github.com/garywei944/KPConv-PyTorch-ShapeNet-Part">
@@ -140,7 +140,7 @@ That I'd like to choose `eva` as a prefix of the projects is inspired from a fic
 
 ### Uh huh, then what's `aris`?
 
-`aris`, or `ariseus`, is a word that I create. It's derived from a character of the music game *Cytus II* and the character's name is `Æsir`. I swapped *s* and *r* and used English letter *A* instead of Danish letter *Æ*. `eus` is simply a zeus-like Greek mythology style naming suffix to make it sounds more catchy.
+`aris`, or `ariseus`, is a word that I created. It's derived from a character of the music game [*Cytus II*](https://www.rayark.com/g/cytus2/) and the name of the character is `Æsir`. I swapped *s* and *r* and used English letter *A* instead of Danish letter *Æ*. `eus` is simply a zeus-like Greek mythology style naming suffix to make it sounds more catchy.
 
 
 ---
