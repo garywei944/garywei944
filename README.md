@@ -1,4 +1,7 @@
-# Heyo! It's [Gary](https://www.garywei.dev/)！ 👋
+# Heyo! Here's [Gary](https://www.garywei.dev/)！ 👋
+
+Machine Learning | Full Stack | Game Development <br>
+Researcher | Engineer | Code Artist | Gamer
 
 ***Also check out www.garywei.dev!***
 
@@ -80,7 +83,7 @@ A handy tool makes a handy man.
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=light" />
 </a>
 
-* **Programming Languages**:
+### Programming Languages
 
 |   Level / Category  |              Language / Framework              |
 |---------------------|------------------------------------------------|
@@ -99,11 +102,11 @@ A handy tool makes a handy man.
 </a>
 <br>
 
-### Why `eva`?
+### Why prefix `eva`?
 
 In general, `eva` has many meanings. In Hebrew Bible, [*Eve (or Eva)*](https://en.wikipedia.org/wiki/Eve) was the first woman created. Besides, I'm also a big fan of the anime [*Neon Genesis Evangelion*](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion), which is also usually referred as EVA.
 
-That I'd like to choose `eva` as a prefix is inspired from a fiction novel character. In [*Jiangnan(江南)*](https://en.wikipedia.org/wiki/Jiang_Nan_(novelist))'s novel [*Dragon Raja(龙族)*](https://en.wikipedia.org/wiki/Dragon_Raja_(Chinese_novels)), *EVA* refers to a supercomputer that is implanted with personality, which is also similar to the [*S.C. Magi System(マギ)*](https://wiki.evageeks.org/Magi) of *Neon Genesis Evangelion*. In this way, I add a romantic touch to my projects. BTW, Dragon Raja used to be my favorite fiction novel for years.
+That I'd like to choose `eva` as a prefix is inspired from a fiction novel character. In [*Jiangnan(江南)*](https://en.wikipedia.org/wiki/Jiang_Nan_(novelist))'s novel [*Dragon Raja(龙族)*](https://en.wikipedia.org/wiki/Dragon_Raja_(Chinese_novels)), *EVA* refers to a supercomputer that is implanted with personality, which is also similar to the [*S.C. Magi System(マギ)*](https://wiki.evageeks.org/Magi) of *Neon Genesis Evangelion*. **In this way, I add a romantic touch to my projects.** BTW, Dragon Raja used to be my favorite fiction novel for years.
 
 
 ## What's next, Pragmatism? 😎
@@ -143,7 +146,7 @@ That I'd like to choose `eva` as a prefix is inspired from a fiction novel chara
 
 ### Uh huh, then what's `aris`?
 
-`aris`, or `ariseus`, is a word that I created. It's derived from a character of the music game [*Cytus II*](https://www.rayark.com/g/cytus2/) and the name of the character is `Æsir`. I swapped *s* and *r* and used English letter *A* instead of Danish letter *Æ*. `eus` is simply a zeus-like Greek mythology style naming suffix to make it sounds more catchy.
+`aris`, or `ariseus`, is a name that I created. It's derived from a character of the music game [*Cytus II*](https://www.rayark.com/g/cytus2/) and the name of the character is `Æsir`. I swapped *s* and *r* and used English letter *A* instead of Danish letter *Æ*. `eus` is simply a zeus-like Greek mythology style naming suffix to make it sounds more catchy.
 
 
 ---
