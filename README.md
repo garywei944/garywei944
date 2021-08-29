@@ -1,7 +1,7 @@
 # Heyo! Here's [Gary](https://www.garywei.dev/)！ 👋
 
 Machine Learning | Full Stack | Game Development <br>
-Researcher | Engineer | Geek | Gamer
+Researcher | Engineer | Gamer
 
 ***Also check out www.garywei.dev!***
 
