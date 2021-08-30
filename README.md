@@ -135,9 +135,6 @@ That I'd like to choose `eva` as a prefix is inspired from a fiction novel chara
 <a href="https://github.com/garywei944/garywei.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei.dev&theme=light">
 </a>
-<a href="https://github.com/garywei944/gwei.page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=gwei.page&theme=light">
-</a>
 <a href="https://github.com/garywei944/CG3-Blog-Platform">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light">
 </a>
