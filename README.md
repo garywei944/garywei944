@@ -76,11 +76,11 @@ A handy tool makes a handy man.*
 [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/awesome)
 [![Qtile](https://img.shields.io/badge/WM-Qtile-52d053)](https://github.com/garywei944/eva_ubuntu/tree/main/.config/qtile)
 
-<a href="https://github.com/garywei944/eva_init">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
-</a>
 <a href="https://github.com/garywei944/eva_arch">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=light" />
+</a>
+<a href="https://github.com/garywei944/eva_init">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light" />
 </a>
 
 ### Programming Languages
