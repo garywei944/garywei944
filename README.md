@@ -50,15 +50,16 @@ A handy tool makes a handy man.*
 
 ### Skilled Languages & Frameworks
 
-| Level / Category     | Language / Framework                           |
-|----------------------|------------------------------------------------|
-| **Developing with**  | Python, Bash                                   |
-| **Proficient**       | C/C++, C#, Java, JavaScript                    |
-| **Experienced**      | Lisp, Lua, MATLAB, R, Batch, AppleScript       |
-| **Machine Learning** | PyTorch, Hugging Face, numpy, pandas, etc      |
-| **Front End**        | HTML, CSS(Bootstrap), JavaScript(jQuery), Ajax |
-| **Back End**         | Node.js, MySQL, PostgreSQL                     |
-| **Markup Language**  | LaTex, Markdown                                |
+| Level / Category     | Language / Framework                                 |
+|----------------------|------------------------------------------------------|
+| **Developing with**  | Python, Bash                                         |
+| **Proficient**       | C/C++, C#, Java, JavaScript                          |
+| **Experienced**      | Lisp, Lua, MATLAB, R, Batch, AppleScript             |
+| **Machine Learning** | PyTorch, Hugging Face, numpy, pandas, etc (mastered) |
+| **Front End**        | HTML, CSS(Bootstrap), JavaScript(jQuery), Ajax       |
+| **Back End**         | Node.js, MySQL, PostgreSQL                           |
+| **Game Programming** | Unity                                                |
+| **Markup Language**  | LaTex, Markdown                                      |
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact)
 
