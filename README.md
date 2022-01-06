@@ -24,8 +24,8 @@ I play league, I play steam, and I watch anime. The profile picture is Ouma
 Shu, a controversial character. I really like the anime STEINS;GATE and my
 dream is to be a mad scientist.
 
-![](https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&layout=compact)](https://github.com/garywei944)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&layout=compact)](https://wakatime.com/@garywei944)
 
 ## Fundamentalism
 
@@ -45,8 +45,8 @@ A handy tool makes a handy man.*
   [![KDE](https://img.shields.io/badge/DE-KDE-e6770b?logo=kde&logoColor=white)](https://github.com/garywei944/eva_arch)
   [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/awesome)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=light)
-![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=light)](https://github.com/garywei944/eva_arch)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light)](https://github.com/garywei944/eva_init)
 
 ### Skilled Languages & Frameworks
 
@@ -61,14 +61,16 @@ A handy tool makes a handy man.*
 | **Game Programming** | Unity                                                |
 | **Markup Language**  | LaTex, Markdown                                      |
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact)](https://wakatime.com/@garywei944)
 
 ### Algorithm
-I started to do algorithm competitions since high school. Now I do problems on LeetCode.
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=LeetCode&theme=light)
-![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_vijos&theme=light)
-![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_iac&theme=light)
+I started to do algorithm competitions since high school. Now I do problems on
+LeetCode.
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=LeetCode&theme=light)](https://github.com/garywei944/LeetCode)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_vijos&theme=light)](https://github.com/garywei944/aris_vijos)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_iac&theme=light)](https://github.com/garywei944/aris_iac)
 
 ## Pragmatism
 
@@ -81,23 +83,23 @@ I started to do algorithm competitions since high school. Now I do problems on L
 
 - Some Machine Learning **3D Computer Vision**
 
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=KPConv-PyTorch-ShapeNet-Part)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=KPConv-PyTorch-ShapeNet-Part)](https://github.com/garywei944/KPConv-PyTorch-ShapeNet-Part)
 
 - Some Machine Learning **Drug Discovery**
 
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light)
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_kaggle_lish-moa&theme=light)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light)](https://github.com/garywei944/FMol)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_kaggle_lish-moa&theme=light)](https://github.com/garywei944/aris_kaggle_lish-moa)
 
 - Some **Game Programming**
 
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Untitled-Tower-Defense&theme=light)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Untitled-Tower-Defense&theme=light)](https://github.com/garywei944/Untitled-Tower-Defense)
 
 - **Full Stack Development**, **IoT**, etc
 
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei.dev&theme=light)
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light)
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Reconnect-Unihack21_Devil_Otter&theme=light)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei.dev&theme=light)](https://github.com/garywei944/garywei.dev)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light)](https://github.com/garywei944/CG3-Blog-Platform)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Reconnect-Unihack21_Devil_Otter&theme=light)](https://github.com/garywei944/Reconnect-Unihack21_Devil_Otter)
 
 ---
 
-### ***Check out [garywei.dev](https://www.garywei.dev.) for more!***
+### ***Check out [garywei.dev](https://www.garywei.dev) for more!***
