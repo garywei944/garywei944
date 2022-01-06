@@ -63,6 +63,13 @@ A handy tool makes a handy man.*
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact)
 
+### Algorithm
+I started to do algorithm competitions since high school. Now I do problems on LeetCode.
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=LeetCode&theme=light)
+![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_vijos&theme=light)
+![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_iac&theme=light)
+
 ## Pragmatism
 
 - Some Machine Learning **Biomedical NLP**
