@@ -24,7 +24,7 @@ I play league, I play steam, and I watch anime. The profile picture is Ouma
 Shu, a controversial character. I really like the anime STEINS;GATE and my
 dream is to be a mad scientist.
 
-我的母语是中文，I'm studying in US with English, 日本語も私の専攻です。
+我的母语是中文，I'm studying in US, 日本語も私の専攻です。
 
 [![](https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&layout=compact)](https://github.com/garywei944)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&layout=compact)](https://wakatime.com/@garywei944)
