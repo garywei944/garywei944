@@ -1,7 +1,7 @@
 # ariseus
-
-Machine Learning | Full Stack | Game Development <br>
-Researcher | Engineer | Gamer
+| Machine Learning | Full Stack | Game Development | Vulnerability Analysis |
+|:----------------:|:----------:|:----------------:|:----------------------:|
+|    Researcher    |  Engineer  |       Gamer      |         Hacker         |
 
 Hi GitHub! I'm **Gary**. I also go by the name **_ariseus_** online. I'm a
 senior undergraduate and am currently working
@@ -49,10 +49,10 @@ A handy tool makes a handy man._
 [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=light)](https://github.com/garywei944/eva_arch)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light)](https://github.com/garywei944/eva_init)
 
-_[![Sublime](https://img.shields.io/badge/Sublime%20Text-4-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st4)
+- *[![Sublime](https://img.shields.io/badge/Sublime%20Text-4-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st4)
 used to be my favorite editor. I have maintained a rich customized
 configuration at [garywei944/eva_st4](https://github.com/garywei944/eva_st4).
-Now I have moved to use VS Code for a better official support to extensions._
+Now I have moved to use VS Code for a better official support to extensions.*
 
 ### Skilled Languages & Frameworks
 
