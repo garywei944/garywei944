@@ -108,6 +108,10 @@ on LeetCode.
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light)](https://github.com/garywei944/CG3-Blog-Platform)
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Reconnect-Unihack21_Devil_Otter&theme=light)](https://github.com/garywei944/Reconnect-Unihack21_Devil_Otter)
 
+- **Reverse Engineering**, **Vulnerability Analysis**
+
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=reverse_shell_x86-64&theme=light)](https://github.com/garywei944/reverse_shell_x86-64)
+
 ---
 
 ### ***Check out [garywei.dev](https://www.garywei.dev) for more!***
