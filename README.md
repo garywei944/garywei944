@@ -3,7 +3,7 @@
 Machine Learning | Full Stack | Game Development <br>
 Researcher | Engineer | Gamer
 
-Hi GitHub! I'm **Gary**. I also go by the name ***ariseus*** online. I'm a
+Hi GitHub! I'm **Gary**. I also go by the name **_ariseus_** online. I'm a
 senior undergraduate and am currently working
 at [UMass BioNLP lab](https://bio-nlp.org/) on practical medical NLP projects.
 I will continue to research in Machine Learning in graduate school.
@@ -20,9 +20,8 @@ high-performance reproducible machine learning projects. I also care about
 theoretical and mathematical foundations. I wanted to be a mathematician when I
 was a freshman.
 
-I play league, I play steam, and I watch anime. The profile picture is Ouma
-Shu, a controversial character. I really like the anime STEINS;GATE and my
-dream is to be a mad scientist.
+I play league, play PC games, and watch anime. I really like the anime STEINS;GATE
+and my dream is to be a mad scientist.
 
 我的母语是中文，I'm studying in US, 日本語も私の専攻です。
 
@@ -31,8 +30,8 @@ dream is to be a mad scientist.
 
 ## Fundamentalism
 
-*工欲善其事，必先利其器。<br>
-A handy tool makes a handy man.*
+_工欲善其事，必先利其器。<br>
+A handy tool makes a handy man._
 
 - **OS**:
   [![Windows](https://img.shields.io/badge/Windows-10-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_windows)
@@ -41,7 +40,7 @@ A handy tool makes a handy man.*
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-ffcc66?logo=ubuntu&logoColor=white)](https://github.com/garywei944/eva_ubuntu)
 - **Editors**:
   [![Jetbrains](https://img.shields.io/badge/Jetbrains-IDE-ffcc66?logo=jetbrains&logoColor=white)](https://www.jetbrains.com/products/)
-  [![Sublime](https://img.shields.io/badge/Sublime%20Text-4-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st3)
+  [![Jetbrains](https://img.shields.io/badge/VS-Code-ff66cc?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
   [![Spacemacs](https://img.shields.io/badge/Spacemacs-evil-cc66ff?logo=spacemacs&logoColor=white)](https://github.com/garywei944/.spacemacs.d)
 - **Desktops**:
   [![KDE](https://img.shields.io/badge/DE-KDE-e6770b?logo=kde&logoColor=white)](https://github.com/garywei944/eva_arch)
@@ -50,16 +49,21 @@ A handy tool makes a handy man.*
 [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=light)](https://github.com/garywei944/eva_arch)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light)](https://github.com/garywei944/eva_init)
 
+_[![Sublime](https://img.shields.io/badge/Sublime%20Text-4-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st4)
+used to be my favorite editor. I have maintained a rich customized
+configuration at [garywei944/eva_st4](https://github.com/garywei944/eva_st4).
+Now I have moved to use VS Code for a better official support to extensions._
+
 ### Skilled Languages & Frameworks
 
 | Level / Category     | Language / Framework                                 |
-|----------------------|------------------------------------------------------|
+| -------------------- | ---------------------------------------------------- |
 | **Developing with**  | Python, Bash                                         |
 | **Proficient**       | C/C++, C#, Java, JavaScript                          |
 | **Experienced**      | Lisp, Lua, MATLAB, R, Batch, AppleScript             |
 | **Machine Learning** | PyTorch, Hugging Face, numpy, pandas, etc (mastered) |
 | **Front End**        | HTML, CSS(Bootstrap), JavaScript(jQuery), Ajax       |
-| **Back End**         | Node.js, MySQL, PostgreSQL                           |
+| **Back End**         | Node.js, Django, MySQL, PostgreSQL                   |
 | **Game Programming** | Unity                                                |
 | **Markup Language**  | LaTex, Markdown                                      |
 
@@ -77,11 +81,12 @@ LeetCode.
 ## Pragmatism
 
 - Some Machine Learning **Biomedical NLP**
-    - I'm currently working on a downstream project
-      of [Ramesh et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23920650/) with
-      Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx)
-      at UMass Lowell [BioNLP Lab](https://bio-nlp.org/). Looking forward to
-      publishing it in Jan 2022.
+
+  - I'm currently working on a downstream project
+    of [Ramesh et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23920650/) with
+    Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx)
+    at UMass Lowell [BioNLP Lab](https://bio-nlp.org/). Looking forward to
+    publishing it in Jan 2022.
 
 - Some Machine Learning **3D Computer Vision**
 
@@ -104,4 +109,4 @@ LeetCode.
 
 ---
 
-### ***Check out [garywei.dev](https://www.garywei.dev) for more!***
+### **_Check out [garywei.dev](https://www.garywei.dev) for more!_**
