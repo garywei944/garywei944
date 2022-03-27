@@ -1,8 +1,8 @@
 # ariseus
 
-| Machine Learning | Full Stack | Game Development | Vulnerability Analysis |
-|:----------------:|:----------:|:----------------:|:----------------------:|
-|    Researcher    |  Engineer  |      Gamer       |         Hacker         |
+| Machine Learning | Full Stack | Game Development | ELF Reverse Engineering |
+|:----------------:|:----------:|:----------------:|:-----------------------:|
+|    Researcher    |  Engineer  |      Gamer       |         Hacker          |
 
 Hi GitHub! I'm **Gary**. I also go by the name ***ariseus*** online. I'm a
 senior undergraduate and am currently working
@@ -83,11 +83,9 @@ on LeetCode.
 
 - Some Machine Learning **Biomedical NLP**
 
-    - I'm currently working on a downstream project
-      of [Ramesh et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23920650/) with
+    - I'm currently working on Biomedical NLP projects with
       Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx)
-      at UMass Lowell [BioNLP Lab](https://bio-nlp.org/). Looking forward to
-      publishing it in Jan 2022.
+      at UMass Lowell [BioNLP Lab](https://bio-nlp.org/).
 
 - Some Machine Learning **3D Computer Vision**
 
