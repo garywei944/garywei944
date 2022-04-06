@@ -1,8 +1,8 @@
 # ariseus
 
-| Machine Learning | Full Stack | Game Development | ELF Reverse Engineering |
-|:----------------:|:----------:|:----------------:|:-----------------------:|
-|    Researcher    |  Engineer  |      Gamer       |         Hacker          |
+| Machine Learning | Full Stack | Game Development | Binary Exploitation |
+|:----------------:|:----------:|:----------------:|:-------------------:|
+|    Researcher    |  Engineer  |      Gamer       |       Hacker        |
 
 Hi GitHub! I'm **Gary**. I also go by the name ***ariseus*** online. I'm a
 senior undergraduate and am currently working
@@ -20,6 +20,9 @@ compatible command line scripts. I care about writing well-structured
 high-performance reproducible machine learning projects. I also care about
 theoretical and mathematical foundations. I wanted to be a mathematician when I
 was a freshman.
+
+I also do medium level exploitation and reverse engineering stuffs. I enjoy
+solving CTF challenges and used to have fun with them.
 
 I play league, play PC games, and watch anime. I really like the anime
 STEINS;GATE and my dream is to be a mad scientist.
@@ -106,9 +109,10 @@ on LeetCode.
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light)](https://github.com/garywei944/CG3-Blog-Platform)
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Reconnect-Unihack21_Devil_Otter&theme=light)](https://github.com/garywei944/Reconnect-Unihack21_Devil_Otter)
 
-- **Reverse Engineering**, **Vulnerability Analysis**
+- **Exploitation**, **CTF Challenges**
 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=reverse_shell_x86-64&theme=light)](https://github.com/garywei944/reverse_shell_x86-64)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=umass_ctf_2022&theme=light)](https://github.com/garywei944/umass_ctf_2022)
 
 ---
 
