@@ -21,7 +21,7 @@ high-performance reproducible machine learning projects. I also care about
 theoretical and mathematical foundations. I wanted to be a mathematician when I
 was a freshman.
 
-I also do medium level exploitation and reverse engineering stuffs. I enjoy
+I also do beginner level exploitation and reverse engineering stuffs. I enjoy
 solving CTF challenges and used to have fun with them.
 
 I play league, play PC games, and watch anime. I really like the anime
