@@ -4,28 +4,32 @@
 |:----------------:|:----------:|:----------------:|:-------------------:|
 |    Researcher    |  Engineer  |      Gamer       |       Hacker        |
 
-Hi GitHub! I'm **Gary**. I also go by the name ***ariseus*** online. I'm a
-senior undergraduate and am currently working
-at [UMass BioNLP lab](https://bio-nlp.org/) on practical medical NLP projects.
+Hi GitHub! I'm **Gary**. I also go by the name ***ariseus*** online.
+I'm an incoming master student at Cornell University.
+I was working at [UMass BioNLP lab](https://bio-nlp.org/) on practical medical
+NLP projects.
 I will continue to research in Machine Learning in graduate school.
 
-I always depict myself as a combination of scientist and engineer. I study in
-General Computer Science and Computational and Applied Mathematics. I do
-project in Machine Learning, Full Stack websites, Serverless websites, Game
-programming, etc.
+I always depict myself as a combination of scientist and engineer.
+I study in General Computer Science and Computational and Applied Mathematics
+as an undergraduate.
+I do project in Machine Learning, Full Stack websites, Serverless websites,
+Game programming, etc.
 
-I'm a PROUD Arch Linux user, but not an extreme fundamentalist. Usually I play
-around with all potential solutions and go for the best practice. I write
-compatible command line scripts. I care about writing well-structured
-high-performance reproducible machine learning projects. I also care about
-theoretical and mathematical foundations. I wanted to be a mathematician when I
-was a freshman.
+I'm a PROUD Arch Linux user, but not an extreme fundamentalist.
+Usually I play around with all potential solutions and go for the best
+practice.
+I write compatible command line scripts.
+I care about writing well-structured high-performance reproducible machine
+learning projects.
+I also care about theoretical and mathematical foundations.
+I wanted to become a mathematician when I was a freshman.
 
-I also do beginner level exploitation and reverse engineering stuffs. I enjoy
-solving CTF challenges and used to have fun with them.
+I also do beginner level exploitation and reverse engineering stuffs.
+I enjoy solving CTF challenges and used to have fun with them.
 
-I play league, play PC games, and watch anime. I really like the anime
-STEINS;GATE and my dream is to be a mad scientist.
+I play league, play PC games, and watch anime.
+I really like the anime STEINS;GATE and my dream is to be a mad scientist.
 
 我的母语是中文，I'm studying in US, 日本語も私の専攻です。
 
@@ -56,7 +60,7 @@ A handy tool makes a handy man.*
 - *[![Sublime](https://img.shields.io/badge/Sublime%20Text-4-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st4)
   used to be my favorite editor. I have maintained a rich customized
   configuration at [garywei944/eva_st4](https://github.com/garywei944/eva_st4).
-  Now I have moved to use VS Code for a better official support to extensions.*
+  Now I have moved to use VS Code for a better official support.*
 
 ### Skilled Languages & Frameworks
 
@@ -64,12 +68,11 @@ A handy tool makes a handy man.*
 |----------------------|------------------------------------------------------|
 | **Developing with**  | Python, Bash                                         |
 | **Proficient**       | C/C++, C#, Java, JavaScript                          |
-| **Experienced**      | Lisp, Lua, MATLAB, R, Batch, AppleScript             |
+| **Experienced**      | Lua, MATLAB, R, Batch, Lisp, AppleScript             |
 | **Machine Learning** | PyTorch, Hugging Face, numpy, pandas, etc (mastered) |
 | **Front End**        | HTML, CSS(Bootstrap), JavaScript(jQuery), Ajax       |
 | **Back End**         | Node.js, Django, MySQL, PostgreSQL                   |
 | **Game Programming** | Unity                                                |
-| **Markup Language**  | LaTex, Markdown                                      |
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact)](https://wakatime.com/@garywei944)
 
