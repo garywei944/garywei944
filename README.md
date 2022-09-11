@@ -5,13 +5,13 @@
 |    Researcher    |  Engineer  |      Gamer       |       Hacker        |
 
 Hi GitHub! I'm **Gary**. I also go by the name ***ariseus*** online.
-I'm an incoming master student at Cornell University.
+I'm a master student at Cornell University in Computer Science.
 I was working at [UMass BioNLP lab](https://bio-nlp.org/) on practical medical
 NLP projects.
-I will continue to research in Machine Learning in graduate school.
+I continue to research in Machine Learning in graduate school.
 
 I always depict myself as a combination of scientist and engineer.
-I study in General Computer Science and Computational and Applied Mathematics
+I studied in General Computer Science and Computational and Applied Mathematics
 as an undergraduate.
 I do project in Machine Learning, Full Stack websites, Serverless websites,
 Game programming, etc.
@@ -25,10 +25,10 @@ learning projects.
 I also care about theoretical and mathematical foundations.
 I wanted to become a mathematician when I was a freshman.
 
-I also do beginner level exploitation and reverse engineering stuffs.
+I also do beginner level exploitation and reverse engineering challenges.
 I enjoy solving CTF challenges and used to have fun with them.
 
-I play league, play PC games, and watch anime.
+I play League of Legends, play PC games, and watch anime.
 I really like the anime STEINS;GATE and my dream is to be a mad scientist.
 
 我的母语是中文，I'm studying in US, 日本語も私の専攻です。
@@ -67,11 +67,11 @@ A handy tool makes a handy man.*
 | Level / Category     | Language / Framework                                 |
 |----------------------|------------------------------------------------------|
 | **Developing with**  | Python, Bash                                         |
-| **Proficient**       | C/C++, C#, Java, JavaScript                          |
+| **Proficient**       | C/C++, C#, Java, JavaScript, TypeScript              |
 | **Experienced**      | Lua, MATLAB, R, Batch, Lisp, AppleScript             |
 | **Machine Learning** | PyTorch, Hugging Face, numpy, pandas, etc (mastered) |
 | **Front End**        | HTML, CSS(Bootstrap), JavaScript(jQuery), Ajax       |
-| **Back End**         | Node.js, Django, MySQL, PostgreSQL                   |
+| **Back End**         | Django, Express JS, PostgresSQL                      |
 | **Game Programming** | Unity                                                |
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact)](https://wakatime.com/@garywei944)
@@ -87,17 +87,17 @@ on LeetCode.
 
 ## Pragmatism
 
-- Some Machine Learning **Biomedical NLP**
+- Some Machine Learning in **Biomedical NLP**
 
-    - I'm currently working on Biomedical NLP projects with
+    - I'm worked on Biomedical NLP projects with
       Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx)
       at UMass Lowell [BioNLP Lab](https://bio-nlp.org/).
 
-- Some Machine Learning **3D Computer Vision**
+- Some Machine Learning in **3D Computer Vision**
 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=KPConv-PyTorch-ShapeNet-Part)](https://github.com/garywei944/KPConv-PyTorch-ShapeNet-Part)
 
-- Some Machine Learning **Drug Discovery**
+- Some Machine Learning in **Drug Discovery**
 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light)](https://github.com/garywei944/FMol)
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_kaggle_lish-moa&theme=light)](https://github.com/garywei944/aris_kaggle_lish-moa)
@@ -109,8 +109,8 @@ on LeetCode.
 - **Full Stack Development**, **IoT**, etc
 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei.dev-express&theme=light)](https://github.com/garywei944/garywei.dev)
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light)](https://github.com/garywei944/CG3-Blog-Platform)
   [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Reconnect-Unihack21_Devil_Otter&theme=light)](https://github.com/garywei944/Reconnect-Unihack21_Devil_Otter)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light)](https://github.com/garywei944/CG3-Blog-Platform)
 
 - **Exploitation**, **CTF Challenges**
 
