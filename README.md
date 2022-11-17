@@ -1,6 +1,6 @@
 # ariseus
 
-| Machine Learning | Full Stack | Game Development | Binary Exploitation |
+| Machine Learning | Full Stack | Game Development | Executable Exploitation |
 |:----------------:|:----------:|:----------------:|:-------------------:|
 |    Researcher    |  Engineer  |      Gamer       |       Hacker        |
 
