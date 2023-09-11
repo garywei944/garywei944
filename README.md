@@ -5,19 +5,21 @@
 |    Researcher    |  Engineer  |      Gamer       |       Hacker        |
 
 Hi GitHub! I'm **Gary**. I also go by the name ***ariseus*** online.
-I'm a master student at Cornell University in Computer Science.
-I was working at [UMass BioNLP lab](https://bio-nlp.org/) on practical medical
-NLP projects.
-I continue to research in Machine Learning in graduate school.
+I'm a master's student at Cornell University in Computer Science.
+My research interests lie at the intersection of machine learning systems, theory, and AI-driven scientific advancements, where I leverage my mathematical and engineering talents to pioneer cutting-edge solutions.
+I work at [Cornell Relax ML Lab](https://relax-ml.cs.cornell.edu/) with [Prof. Chris De Sa](https://www.cs.cornell.edu/~cdesa/) on efficient machine learning algorithms and systems.
+Our work, grounded in mathematical principles, aims to expedite large-scale, high-performance machine learning systems that are efficient, parallel, and distributed in real-world settings.
+Parallel to this, I collaborate on AI-driven molecule generation with talented Ph.D. students.
+I was working at [UMass BioNLP lab](https://bio-nlp.org/) on practical medical NLP projects.
 
 I always depict myself as a combination of scientist and engineer.
-I studied in General Computer Science and Computational and Applied Mathematics
+I studied General Computer Science and Computational and Applied Mathematics
 as an undergraduate.
-I do project in Machine Learning, Full Stack websites, Serverless websites,
+I do projects in Machine Learning, Full Stack websites, Serverless websites,
 Game programming, etc.
 
-I'm a PROUD Arch Linux user, but not an extreme fundamentalist.
-Usually I play around with all potential solutions and go for the best
+I'm a PROUD Arch Linux user but I'm not an extreme fundamentalist.
+Usually, I play around with all potential solutions and go for the best
 practice.
 I write compatible command line scripts.
 I care about writing well-structured high-performance reproducible machine
@@ -25,7 +27,7 @@ learning projects.
 I also care about theoretical and mathematical foundations.
 I wanted to become a mathematician when I was a freshman.
 
-I also do beginner level exploitation and reverse engineering challenges.
+I also do beginner-level exploitation and reverse engineering challenges.
 I enjoy solving CTF challenges and used to have fun with them.
 
 I play League of Legends, play PC games, and watch anime.
@@ -60,7 +62,7 @@ A handy tool makes a handy man.*
 - *[![Sublime](https://img.shields.io/badge/Sublime%20Text-4-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st4)
   used to be my favorite editor. I have maintained a rich customized
   configuration at [garywei944/eva_st4](https://github.com/garywei944/eva_st4).
-  Now I have moved to use VS Code for a better official support.*
+  Now I have moved to use VS Code for better official support.*
 
 ### Skilled Languages & Frameworks
 
@@ -89,7 +91,7 @@ on LeetCode.
 
 - Some Machine Learning in **Biomedical NLP**
 
-    - I'm worked on Biomedical NLP projects with
+    - I worked on Biomedical NLP projects with
       Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx)
       at UMass Lowell [BioNLP Lab](https://bio-nlp.org/).
 
