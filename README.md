@@ -57,7 +57,7 @@ A handy tool makes a handy man.*
   [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-f4a261?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/awesome)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/eva_arch)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=evaon&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/evaon)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eden&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/eden)
 
 - *[![Sublime](https://img.shields.io/badge/Sublime%20Text-4-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st4)
   used to be my favorite editor. I have maintained a rich customized
