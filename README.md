@@ -1,42 +1,41 @@
 # ariseus
 
 | Machine Learning | Full Stack | Game Development | Executable Exploitation |
-|:----------------:|:----------:|:----------------:|:-------------------:|
-|    Researcher    |  Engineer  |      Gamer       |       Hacker        |
+| :--------------: | :--------: | :--------------: | :---------------------: |
+|    Researcher    |  Engineer  |      Gamer       |         Hacker          |
 
-Hi GitHub! I'm **Gary**. I also go by the name ***ariseus*** online.
-I'm a master's student at Cornell University in Computer Science.
-My research interests lie at the intersection of machine learning systems, theory, and AI-driven scientific advancements, where I leverage my mathematical and engineering talents to pioneer cutting-edge solutions.
-I work at [Cornell Relax ML Lab](https://relax-ml.cs.cornell.edu/) with [Prof. Chris De Sa](https://www.cs.cornell.edu/~cdesa/) on efficient machine learning algorithms and systems.
-Our work, grounded in mathematical principles, aims to expedite large-scale, high-performance machine learning systems that are efficient, parallel, and distributed in real-world settings.
-Parallel to this, I collaborate on AI-driven molecule generation with talented Ph.D. students.
-I was working at [UMass BioNLP lab](https://bio-nlp.org/) on practical medical NLP projects.
+Hi GitHub! Here's **Gary**, a Machine Learning Engineer [@ByteDance](https://www.bytedance.com/).
+I also go by the name ***ariseus*** online.
 
-I always depict myself as a combination of scientist and engineer.
-I studied General Computer Science and Computational and Applied Mathematics
-as an undergraduate.
-I do projects in Machine Learning, Full Stack websites, Serverless websites,
-Game programming, etc.
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garywei944&theme=tokyonight)](https://github.com/garywei944)
 
-I'm a PROUD Arch Linux user but I'm not an extreme fundamentalist.
-Usually, I play around with all potential solutions and go for the best
-practice.
-I write compatible command line scripts.
-I care about writing well-structured high-performance reproducible machine
-learning projects.
+I see myself as a blend of both researcher and engineer, combining deep theoretical insights with practical, hands-on problem solving.
+I studied Computer Science and Applied Mathematics during my undergraduate years.
+I work on projects in Machine Learning, AI for Science, High-Performance Computing (HPC), full-stack development, game programming, and more.
+
+<!-- I graduated from Cornell University with a degree in Computer Science.
+My research focuses on the intersection of machine learning systems, theory, and AI-driven scientific advancements, where I combine my mathematical and engineering skills to develop innovative solutions.
+I worked in the [Cornell Relax ML Lab](https://relax-ml.cs.cornell.edu/) under [Prof. Chris De Sa](https://www.cs.cornell.edu/~cdesa/), focusing on efficient machine learning algorithms and systems.
+Our research, grounded in strong mathematical principles, aimed to accelerate large-scale, high-performance machine learning systems that are efficient, parallel, and distributed in real-world environments.
+Additionally, I collaborated with talented Ph.D. students on AI-driven molecule generation.
+Prior to that, I worked at the [UMass BioNLP lab](https://bio-nlp.org/) on applied medical NLP projects. -->
+
+I'm a PROUD Arch Linux user.
+I care about writing clean, maintainable, efficient, and scalable code.
 I also care about theoretical and mathematical foundations.
 I wanted to become a mathematician when I was a freshman.
 
 I also do beginner-level exploitation and reverse engineering challenges.
 I enjoy solving CTF challenges and used to have fun with them.
 
-I play League of Legends, play PC games, and watch anime.
-I really like the anime STEINS;GATE and my dream is to be a mad scientist.
+I play League of Legends, AAA games, and I watch anime.
 
 我的母语是中文，I'm studying in US, 日本語も私の専攻です。
 
-[![](https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&layout=compact)](https://github.com/garywei944)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&layout=compact)](https://wakatime.com/@garywei944)
+
+[![](https://github-readme-stats.vercel.app/api?username=garywei944&show_icons=true&theme=tokyonight&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/garywei944)
+&nbsp;
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=garywei944&theme=tokyonight&layout=pie&hide=jupyter%20notebook,HTML,CSS,SCSS)](https://wakatime.com/@garywei944)
 
 ## Fundamentalism
 
@@ -44,20 +43,21 @@ I really like the anime STEINS;GATE and my dream is to be a mad scientist.
 A handy tool makes a handy man.*
 
 - **OS**:
-  [![Windows](https://img.shields.io/badge/Windows-10-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_windows)
+  [![Windows](https://img.shields.io/badge/Windows-11-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_windows)
   [![macOS](https://img.shields.io/badge/macOS-Sonoma-66ffcc?logo=apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
-  [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-latest-ccff66?logo=arch%20linux&logoColor=white)](https://github.com/garywei944/eva_arch)
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-ffcc66?logo=ubuntu&logoColor=white)](https://github.com/garywei944/eva_ubuntu)
+  [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-latest-cc66ff?logo=arch%20linux&logoColor=white)](https://github.com/garywei944/eva_arch)
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-ccff66?logo=ubuntu&logoColor=white)](https://github.com/garywei944/eva_ubuntu)
 - **Editors**:
+  [![VS Code](https://img.shields.io/badge/VS-Code-ff66cc?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
   [![Jetbrains](https://img.shields.io/badge/Jetbrains-IDE-ffcc66?logo=jetbrains&logoColor=white)](https://www.jetbrains.com/products/)
-  [![Jetbrains](https://img.shields.io/badge/VS-Code-ff66cc?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-  [![Spacemacs](https://img.shields.io/badge/Spacemacs-evil-cc66ff?logo=spacemacs&logoColor=white)](https://github.com/garywei944/.spacemacs.d)
+  [![Neovim](https://img.shields.io/badge/vim-Neovim-264653?logo=neovim&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/nvim)
+  [![Spacemacs](https://img.shields.io/badge/Spacemacs-evil-e76f51?logo=spacemacs&logoColor=white)](https://github.com/garywei944/.spacemacs.d)
 - **Desktops**:
-  [![KDE](https://img.shields.io/badge/DE-KDE-e6770b?logo=kde&logoColor=white)](https://github.com/garywei944/eva_arch)
-  [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-d3290f?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/awesome)
+  [![KDE](https://img.shields.io/badge/KDE-Plasma%206-2a9d8f?logo=kde&logoColor=white)](https://github.com/garywei944/eva_arch)
+  [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-f4a261?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/awesome)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=light)](https://github.com/garywei944/eva_arch)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_init&theme=light)](https://github.com/garywei944/eva_init)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/eva_arch)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=evaon&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/evaon)
 
 - *[![Sublime](https://img.shields.io/badge/Sublime%20Text-4-ff66cc?logo=sublime%20text&logoColor=white)](https://github.com/garywei944/eva_st4)
   used to be my favorite editor. I have maintained a rich customized
@@ -66,59 +66,62 @@ A handy tool makes a handy man.*
 
 ### Skilled Languages & Frameworks
 
-| Level / Category     | Language / Framework                                 |
-|----------------------|------------------------------------------------------|
-| **Developing with**  | Python, Bash                                         |
-| **Proficient**       | C/C++, C#, Java, JavaScript, TypeScript              |
-| **Experienced**      | Lua, MATLAB, R, Batch, Lisp, AppleScript             |
-| **Machine Learning** | PyTorch, Hugging Face, numpy, pandas, etc (mastered) |
-| **Front End**        | HTML, CSS(Bootstrap), JavaScript(jQuery), Ajax       |
-| **Back End**         | Django, Express JS, PostgresSQL                      |
-| **Game Programming** | Unity                                                |
+| Level / Category        | Language / Framework                           |
+| ----------------------- | ---------------------------------------------- |
+| **Developing with**     | C/C++, Python, Bash                            |
+| **Proficient**          | C#, Java, JavaScript, TypeScript               |
+| **Experienced**         | Lua, MATLAB, R, Batch, Lisp, AppleScript       |
+| **Machine Learning**    | PyTorch, TensorFlow, Jax, CUDA, etc (mastered) |
+| **Front End**           | Hugo, Jekyll, JavaScript(jQuery), Ajax         |
+| **Back End**            | Django, Express JS, SQL, NoSQL                 |
+| **Reverse Engineering** | Ghidra, Pwntools                               |
+| **Game Programming**    | Unity                                          |
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&layout=compact)](https://wakatime.com/@garywei944)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=garywei944&theme=tokyonight&layout=compact)](https://wakatime.com/@garywei944)
 
 ### Algorithm
 
 I started to do algorithm competitions since high school. Now I solve problems
 on LeetCode.
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=LeetCode&theme=light)](https://github.com/garywei944/LeetCode)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_vijos&theme=light)](https://github.com/garywei944/aris_vijos)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_iac&theme=light)](https://github.com/garywei944/aris_iac)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=LeetCode&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/LeetCode)
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_vijos&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/aris_vijos) -->
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_iac&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/aris_iac) -->
 
 ## Pragmatism
 
-- Some Machine Learning in **Biomedical NLP**
+- Checkout my papers on [Google Scholar](https://scholar.google.com/citations?user=WSe_T1EAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/Guanghao-Wei/2249534497).
 
-    - I worked on Biomedical NLP projects with
-      Prof. [Hong Yu](https://www.uml.edu/sciences/computer-science/faculty/yu-hong.aspx)
-      at UMass Lowell [BioNLP Lab](https://bio-nlp.org/).
+- Some Machine Learning **Systems** & **Algorithms**
 
-- Some Machine Learning in **3D Computer Vision**
-
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=KPConv-PyTorch-ShapeNet-Part)](https://github.com/garywei944/KPConv-PyTorch-ShapeNet-Part)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=grab-sampler&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/grab-sampler)
 
 - Some Machine Learning in **Drug Discovery**
 
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=light)](https://github.com/garywei944/FMol)
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_kaggle_lish-moa&theme=light)](https://github.com/garywei944/aris_kaggle_lish-moa)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=ChemFlow&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/ChemFlow)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=FMol&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/FMol)
+  <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=aris_kaggle_lish-moa&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/aris_kaggle_lish-moa) -->
+
+- Some Machine Learning in **3D Computer Vision**
+
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=KPConv-PyTorch-ShapeNet-Part&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/KPConv-PyTorch-ShapeNet-Part)
 
 - Some **Game Programming**
 
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Untitled-Tower-Defense&theme=light)](https://github.com/garywei944/Untitled-Tower-Defense)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Untitled-Tower-Defense&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/Untitled-Tower-Defense)
 
 - **Full Stack Development**, **IoT**, etc
 
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei.dev-express&theme=light)](https://github.com/garywei944/garywei.dev)
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Reconnect-Unihack21_Devil_Otter&theme=light)](https://github.com/garywei944/Reconnect-Unihack21_Devil_Otter)
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=light)](https://github.com/garywei944/CG3-Blog-Platform)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=garywei.dev&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/garywei.dev)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=acad.garywei.dev&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/acad.garywei.dev)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=Reconnect-Unihack21_Devil_Otter&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/Reconnect-Unihack21_Devil_Otter)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=CG3-Blog-Platform&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/CG3-Blog-Platform)
 
 - **Exploitation**, **CTF Challenges**
 
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=reverse_shell_x86-64&theme=light)](https://github.com/garywei944/reverse_shell_x86-64)
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=umass_ctf_2022&theme=light)](https://github.com/garywei944/umass_ctf_2022)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=umass_ctf_2022&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/umass_ctf_2022)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=reverse_shell_x86-64&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/reverse_shell_x86-64)
 
 ---
 
-### ***Check out [garywei.dev](https://www.garywei.dev) for more!***
+### ***Check out [garywei.dev](https://www.garywei.dev) and [acad.garywei.dev](https://acad.garywei.dev) for more!***
