@@ -1,10 +1,10 @@
 # ariseus
 
-| Machine Learning | Full Stack | Game Development | Executable Exploitation |
+| Machine Learning & High Performance Computing | Distributed System & Full Stack | Game Development | Executable Exploitation |
 | :--------------: | :--------: | :--------------: | :---------------------: |
 |    Researcher    |  Engineer  |      Gamer       |         Hacker          |
 
-Hi GitHub! Here's **Gary**, a Machine Learning Engineer [@ByteDance](https://www.bytedance.com/).
+Hi GitHub! Here's **Gary**! I'm a Machine Learning Engineer [@ByteDance](https://www.bytedance.com/).
 I also go by the name ***ariseus*** online.
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garywei944&theme=tokyonight)](https://github.com/garywei944)
