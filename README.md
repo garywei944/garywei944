@@ -28,8 +28,6 @@ I wanted to become a mathematician when I was a freshman.
 I also do beginner-level exploitation and reverse engineering challenges.
 I enjoy solving CTF challenges and used to have fun with them.
 
-I play League of Legends, AAA games, and I watch anime.
-
 我的母语是中文，I'm studying in US, 日本語も私の専攻です。
 
 
