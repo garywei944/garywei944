@@ -42,7 +42,7 @@ A handy tool makes a handy man.*
 
 - **OS**:
   [![Windows](https://img.shields.io/badge/Windows-11-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_windows)
-  [![macOS](https://img.shields.io/badge/macOS-Sonoma-66ffcc?logo=apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
+  [![macOS](https://img.shields.io/badge/macOS-Sequoia-66ffcc?logo=apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
   [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-latest-cc66ff?logo=arch%20linux&logoColor=white)](https://github.com/garywei944/eva_arch)
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-ccff66?logo=ubuntu&logoColor=white)](https://github.com/garywei944/eva_ubuntu)
 - **Editors**:
