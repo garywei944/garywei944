@@ -46,16 +46,16 @@ A handy tool makes a handy man.*
   [![Windows](https://img.shields.io/badge/Windows-11-66ccff?logo=windows&logoColor=white)](https://github.com/garywei944/eva_windows)
   [![macOS](https://img.shields.io/badge/macOS-Tahoe-66ffcc?logo=apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
 - **Desktops**:
+  [![[Hyprland]](https://img.shields.io/badge/Hyprland-DankMaterialShell-58E1FF?logo=hyprland&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/hypr)
   [![KDE](https://img.shields.io/badge/KDE-Plasma%206-2a9d8f?logo=kde&logoColor=white)](https://github.com/garywei944/eva_arch)
   [![AwesomeWM](https://img.shields.io/badge/WM-AwesomeWM-f4a261?logo=awesomewm&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/awesome)
-  [![[Niri]](https://img.shields.io/badge/Niri-DankMaterialShell-D55C44?logo=niri&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/niri)
 - **Editors**:
   [![VS Code](https://img.shields.io/badge/VS-Code-ff66cc?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
   [![Neovim](https://img.shields.io/badge/vim-Neovim-264653?logo=neovim&logoColor=white)](https://github.com/garywei944/eva_arch/tree/main/.config/nvim)
   <!-- [![Spacemacs](https://img.shields.io/badge/Spacemacs-evil-e76f51?logo=spacemacs&logoColor=white)](https://github.com/garywei944/.spacemacs.d) -->
 - **Keyboard Layout**:
-  [![Colemak](https://img.shields.io/badge/Keyboard-Colemak%20DH-2a9d8f)](https://github.com/garywei944/eva_arch/blob/main/.config/kanata/colemak-dh.kbd)
-  [![Colemak](https://img.shields.io/badge/Keyboard-Qwerty-ffcc66)](https://github.com/garywei944/eva_arch/blob/main/.config/kanata/colemak-dh.kbd)
+  [![Gallium](https://img.shields.io/badge/Keyboard-Gallium-2a9d8f)](https://github.com/garywei944/eva_arch/blob/main/.config/kanata/gallium.kbd)
+  [![Qwerty](https://img.shields.io/badge/Keyboard-Qwerty-ffcc66)](https://github.com/garywei944/eva_arch/blob/main/.config/kanata/gallium.kbd)
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=garywei944&repo=eva_arch&theme=tokyonight&description_lines_count=2)](https://github.com/garywei944/eva_arch)
